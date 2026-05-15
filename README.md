@@ -16,6 +16,7 @@ and workflow automation
 | Project | Description | Stack |
 |---|---|---|
 | [Fitness Tracker](https://github.com/johnbogar/fitness-tracker) | Team-built fitness tracking app — contributed auth, goal management, streak tracking, and personal records features | Python, Flask, React, PostgreSQL |
+| [Song Search](https://github.com/johnbogar/song-search) | Custom hash table implementation used to index and search 31,000+ song titles by word or phrase | Python |
 
 ## 📫 Contact
 
