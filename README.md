@@ -1,4 +1,4 @@
-# Hi, I'm JP Bogar
+# Hi, I'm John Bogar
 
 Computer Science and Information Systems graduate student at UNC Wilmington with a background 
 in business and finance. I'm interested in building practical software 
