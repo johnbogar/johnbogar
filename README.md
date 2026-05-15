@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm JP Bogar
 
-<!--
-**johnbogar/johnbogar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science and Information Systems graduate student at UNC Wilmington with a background 
+in business and finance. I'm interested in building practical software 
+and exploring how AI tools can solve real business problems.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** Python, JavaScript, SQL  
+**Tools:** Git, Agile/Scrum, REST APIs  
+**AI Tools:** Claude, ChatGPT — regular practical use for development 
+and workflow automation
+
+## 📂 Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [Fitness Tracker](https://github.com/johnbogar/fitness-tracker) | Team-built fitness tracking app — contributed auth, goal management, streak tracking, and personal records features | Python, Flask, React, PostgreSQL |
+
+## 📫 Contact
+
+jpbogar@gmail.com
