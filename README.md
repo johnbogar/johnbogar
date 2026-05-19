@@ -7,7 +7,7 @@ and exploring how AI tools can solve real business problems.
 ## 🛠️ Skills
 
 **Languages:** Python, JavaScript, SQL  
-**Tools:** Git, Agile/Scrum, REST APIs  
+**Tools:** Git, Agile/Scrum,  
 **AI Tools:** Claude, ChatGPT — regular practical use for development 
 and workflow automation
 
@@ -15,7 +15,7 @@ and workflow automation
 
 | Project | Description | Stack |
 |---|---|---|
-| [Fitness Tracker](https://github.com/johnbogar/fitness-tracker) | Team-built fitness tracking app — contributed auth, goal management, streak tracking, and personal records features | Python, Flask, React, PostgreSQL |
+| [Fitness Tracker](https://github.com/johnbogar/fitness-tracker) | Team-built fitness tracking app — contributed auth, goal management, home page | Python, Flask, React, PostgreSQL |
 | [Song Search](https://github.com/johnbogar/song-search) | Custom hash table implementation used to index and search 31,000+ song titles by word or phrase | Python |
 
 ## 📫 Contact
